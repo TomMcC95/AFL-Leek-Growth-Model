@@ -1,10 +1,10 @@
 field,zone,planting_date,variety,method,inputs,protection,planting_rate,sand,silt,clay,organic_matter,est_harvest_date
-Allans 07,1,01/04/2019,Krypton,Drilled,Conventional,Barley,249820,39,37,24,29.6,15/12/2021
-Allans 07,2,01/04/2019,Krypton,Drilled,Conventional,Barley,249820,39,37,24,29.6,15/12/2021
-Allans 07,3,01/04/2019,Longton,Drilled,Conventional,Barley,256524,39,37,24,29.6,15/12/2021
-Allans 07,4,01/04/2019,Longton,Drilled,Conventional,Barley,256524,39,37,24,29.6,15/12/2021
-Allans 07,5,01/04/2019,Batter,Drilled,Conventional,Barley,247048,39,37,24,29.6,15/12/2021
-Allans 07,6,01/04/2019,Batter,Drilled,Conventional,Barley,247048,39,37,24,29.6,15/12/2021
+Allans 07,1,01/04/2019,Krypton,Drilled,Conventional,Barley,249820,39,37,24,29.6,15/12/2019
+Allans 07,2,01/04/2019,Krypton,Drilled,Conventional,Barley,249820,39,37,24,29.6,15/12/2019
+Allans 07,3,01/04/2019,Longton,Drilled,Conventional,Barley,256524,39,37,24,29.6,15/12/2019
+Allans 07,4,01/04/2019,Longton,Drilled,Conventional,Barley,256524,39,37,24,29.6,15/12/2019
+Allans 07,5,01/04/2019,Batter,Drilled,Conventional,Barley,247048,39,37,24,29.6,15/12/2019
+Allans 07,6,01/04/2019,Batter,Drilled,Conventional,Barley,247048,39,37,24,29.6,15/12/2019
 Allans 12,1,02/05/2020,Longton,Drilled,Conventional,Barley,258471,27,45,28,32.8,14/04/2021
 Allans 12,2,02/05/2020,Longton,Drilled,Conventional,Barley,258471,27,45,28,32.8,14/04/2021
 Allans 12,3,02/05/2020,Longton,Drilled,Conventional,Barley,258471,27,45,28,32.8,14/04/2021
@@ -482,9 +482,9 @@ Lords Ground 57,2,08/04/2021,Krypton,Blocks,Conventional,None,197680,12,58,30,33
 Lords Ground 57,3,06/04/2021,Krypton,Blocks,Conventional,None,197680,12,58,30,33.6,23/07/2021
 Lords Ground 57,4,06/04/2021,Krypton,Blocks,Conventional,None,197680,12,58,30,33.6,24/07/2021
 Lords Ground 69/Tims,1,11/04/2021,Krypton,Blocks,Conventional,None,197680,5,68,27,47.8,25/07/2021
-Lords Ground 69/Tims,1,11/04/2021,Krypton,Blocks,Conventional,None,197680,5,68,27,47.8,26/07/2021
-Lords Ground 69/Tims,1,14/04/2021,Shafton,Blocks,Conventional,None,197680,5,68,27,47.8,27/07/2021
-Lords Ground 69/Tims,1,14/04/2021,Shafton,Blocks,Conventional,None,197680,5,68,27,47.8,28/07/2021
+Lords Ground 69/Tims,2,11/04/2021,Krypton,Blocks,Conventional,None,197680,5,68,27,47.8,26/07/2021
+Lords Ground 69/Tims,3,14/04/2021,Shafton,Blocks,Conventional,None,197680,5,68,27,47.8,27/07/2021
+Lords Ground 69/Tims,4,14/04/2021,Shafton,Blocks,Conventional,None,197680,5,68,27,47.8,28/07/2021
 Lords Ground Brands,1,19/04/2021,Krypton,Blocks,Conventional,None,197680,1,65,34,47.8,29/07/2021
 Lords Ground Brands,2,19/04/2021,Krypton,Blocks,Conventional,None,197680,1,65,34,47.8,30/07/2021
 Lords Ground Brands,3,17/04/2021,Linkton,Blocks,Conventional,None,197680,1,65,34,47.8,31/07/2021
