@@ -428,8 +428,13 @@ Wissey I (S),4,26/03/2020,Shafton,Drilled,Conventional,Barley,251161,9,65,26,69.
 Wissey O (S),1,26/03/2019,Shafton,Drilled,Conventional,Barley,244843,11,64,25,71.2,02/09/2019
 Wissey O (S),2,26/03/2019,Shafton,Drilled,Conventional,Barley,244843,11,64,25,71.2,02/09/2019
 Wissey O (S),3,26/03/2019,Shafton,Drilled,Conventional,Barley,244843,11,64,25,71.2,02/09/2019
+Park Farm 45,1,25/04/2021,Krypton,Drilled,Conventional,Barley,235000,77,18,5,37,01/11/2021
+Park Farm 52,1,26/04/2021,Krypton,Drilled,Conventional,Barley,235000,28,58,14,35,01/10/2021
+Park Farm 27,1,27/04/2021,Chiefton,Drilled,Conventional,Barley,235000,60,32,8,2,01/11/2021
+Park Farm 27,2,28/04/2021,Krypton,Drilled,Conventional,Barley,235000,60,32,8,2,01/11/2021
 Park Farm 29,1,29/04/2021,Chiefton,Bare Roots,Conventional,None,200000,55,38,7,2.2,01/01/2022
 Park Farm 29,2,30/04/2021,Pluston,Bare Roots,Conventional,None,200000,55,38,7,2.2,01/01/2022
+Park Farm 31,1,01/05/2021,Krypton,Plant Tape,Conventional,None,210000,57,35,8,3.5,01/12/2021
 Soles 17,1,02/05/2021,Krypton,Drilled,Conventional,Barley,235000,22,55,23,26.7,01/12/2021
 Soles 19,1,03/05/2021,Chiefton,Drilled,Conventional,Barley,235000,9,58,33,62.7,01/12/2021
 Allans 06,1,04/05/2021,Krypton,Drilled,Conventional,Barley,235000,40,41,19,24.6,01/01/2022
@@ -625,26 +630,3 @@ Buckenham Heap,1,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,
 Buckenham Heap,2,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,10.2,02/12/2021
 Buckenham Heap,3,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,10.2,03/12/2021
 Buckenham Heap,4,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,10.2,04/12/2021
-Park Farm 45,1,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,01/11/2021
-Park Farm 45,2,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,01/11/2021
-Park Farm 45,3,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,01/11/2021
-Park Farm 45,4,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,01/11/2021
-Park Farm 52,1,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,01/10/2021
-Park Farm 52,2,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,01/10/2021
-Park Farm 52,3,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,01/10/2021
-Park Farm 52,4,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,01/10/2021
-Park Farm 31,1,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,01/12/2021
-Park Farm 31,2,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,01/12/2021
-Park Farm 31,3,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,01/12/2021
-Park Farm 31,4,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,01/12/2021
-Park Farm 31,5,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,01/12/2021
-Park Farm 31,6,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,01/12/2021
-Park Farm 27,1,23/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,2,23/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,3,23/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,4,24/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,5,24/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,6,24/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,7,25/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,8,25/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
-Park Farm 27,9,25/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,01/11/2021
