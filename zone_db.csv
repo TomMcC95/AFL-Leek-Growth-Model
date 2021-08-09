@@ -426,23 +426,6 @@ Wissey I (S),4,26/03/2020,Shafton,Drilled,Conventional,Barley,251161,9,65,26,69.
 Wissey O (S),1,26/03/2019,Shafton,Drilled,Conventional,Barley,244843,11,64,25,71.2,02/09/2019
 Wissey O (S),2,26/03/2019,Shafton,Drilled,Conventional,Barley,244843,11,64,25,71.2,02/09/2019
 Wissey O (S),3,26/03/2019,Shafton,Drilled,Conventional,Barley,244843,11,64,25,71.2,02/09/2019
-Soles 17,1,02/05/2021,Krypton,Drilled,Conventional,Barley,235000,22,55,23,26.7,01/12/2021
-Soles 19,1,03/05/2021,Chiefton,Drilled,Conventional,Barley,235000,9,58,33,62.7,01/12/2021
-Allans 06,1,04/05/2021,Krypton,Drilled,Conventional,Barley,235000,40,41,19,24.6,01/01/2022
-Allans 08/09,1,05/05/2021,Krypton,Drilled,Conventional,Barley,235000,39,43,18,17,01/01/2022
-Allans 11,1,06/05/2021,Batter,Drilled,Conventional,Barley,235000,36,44,20,18.3,01/03/2022
-Symmingtons Boundary A,1,11/05/2021,Chiefton,Plant Tape,Conventional,None,210000,57,28,15,2.6,01/02/2022
-Symmingtons Boundary C,1,12/05/2021,Chiefton,Drilled,Conventional,Barley,247000,61,28,11,2.2,01/02/2022
-Markillies Shipey,1,13/05/2021,Krypton,Drilled,Conventional,Barley,247000,48,38,14,2.7,01/03/2022
-Markillies 4,1,14/05/2021,Chiefton,Drilled,Conventional,Barley,247000,41,46,13,2.9,01/03/2022
-RH33,1,15/05/2021,Harston,Bare Roots,Conventional,None,200000,32,49,19,3,01/04/2022
-RH33,2,16/05/2021,Laston,Bare Roots,Conventional,None,200000,32,49,19,3,01/04/2022
-RH33,3,17/05/2021,Oslo,Bare Roots,Conventional,None,200000,32,49,19,3,01/04/2022
-Chatteris Farms 39,1,18/05/2021,Pluston,Plant Tape,Conventional,None,210000,39,41,20,11.8,01/04/2022
-Chatteris Farms 39,2,19/05/2021,Laston,Plant Tape,Conventional,None,210000,39,41,20,11.8,01/04/2022
-Spencers Church Pit,1,05/06/2021,Chiefton,Modules,Organic,None,200000,33,55,12,2.4,01/12/2021
-Spencers Allotments,1,08/06/2021,Defender,Bare Roots,Organic,None,200000,40,53,7,1.7,31/01/2022
-Spencers Heath,1,12/06/2021,Triton,Bare Roots,Organic,None,200000,73,23,4,3,01/04/2022
 Lords Ground 20,1,08/03/2021,Linkton,Blocks,Conventional,Fleece,178000,32,51,17,25.8,05/07/2021
 Lords Ground 20,2,08/03/2021,Linkton,Blocks,Conventional,Fleece,178000,32,51,17,25.8,05/07/2021
 Lords Ground 20,3,11/03/2021,Linkton,Blocks,Conventional,Fleece,178000,32,51,17,25.8,05/07/2021
@@ -667,3 +650,40 @@ Grotec Far Black,4,02/04/2021,Krypton,Drilled,Conventional,Barley,258776,32,57,1
 Grotec Far Black,5,02/04/2021,Krypton,Drilled,Conventional,Barley,258776,32,57,11,50,15/02/2022
 Grotec Far Black,6,08/04/2021,Krypton,Drilled,Conventional,Barley,254399,50,39,10,30,15/02/2022
 Grotec Far Black,7,08/04/2021,Krypton,Drilled,Conventional,Barley,254399,50,39,10,30,15/02/2022
+Allans 11,1,12/04/2021,Batter,Drilled,Conventional,Barley,255772,36,44,20,18.3,01/03/2022
+Allans 11,2,12/04/2021,Batter,Drilled,Conventional,Barley,255772,36,44,20,18.3,01/03/2022
+Allans 11,3,12/04/2021,Batter,Drilled,Conventional,Barley,255772,36,44,20,18.3,01/03/2022
+Allans 11,4,12/04/2021,Batter,Drilled,Conventional,Barley,255772,36,44,20,18.3,01/03/2022
+Allans 08/09,1,13/04/2021,Chiefton,Drilled,Conventional,Barley,252431,39,43,18,17,01/01/2022
+Allans 08/09,2,13/04/2021,Chiefton,Drilled,Conventional,Barley,252431,39,43,18,17,01/01/2022
+Allans 08/09,3,13/04/2021,Chiefton,Drilled,Conventional,Barley,252431,39,43,18,17,01/01/2022
+Allans 08/09,4,13/04/2021,Chiefton,Drilled,Conventional,Barley,252431,39,43,18,17,01/01/2022
+Allans 08/09,5,13/04/2021,Chiefton,Drilled,Conventional,Barley,252431,39,43,18,17,01/01/2022
+Allans 08/09,6,13/04/2021,Chiefton,Drilled,Conventional,Barley,252431,39,43,18,17,01/01/2022
+Allans 06,1,10/04/2021,Krypton,Drilled,Conventional,Barley,262270,40,41,19,24.6,01/01/2022
+Allans 06,2,10/04/2021,Krypton,Drilled,Conventional,Barley,262270,40,41,19,24.6,01/01/2022
+Allans 06,3,10/04/2021,Krypton,Drilled,Conventional,Barley,262270,40,41,19,24.6,01/01/2022
+Allans 06,4,11/04/2021,Krypton,Drilled,Conventional,Barley,259048,40,41,19,24.6,01/01/2022
+Allans 06,5,11/04/2021,Krypton,Drilled,Conventional,Barley,259048,40,41,19,24.6,01/01/2022
+Allans 06,6,11/04/2021,Krypton,Drilled,Conventional,Barley,259048,40,41,19,24.6,01/01/2022
+Soles 17,1,13/04/2021,Chiefton,Drilled,Conventional,Barley,239861,22,55,23,26.7,01/12/2021
+Soles 17,2,13/04/2021,Chiefton,Drilled,Conventional,Barley,239861,22,55,23,26.7,01/12/2021
+Soles 17,3,13/04/2021,Chiefton,Drilled,Conventional,Barley,239861,22,55,23,26.7,01/12/2021
+Soles 17,4,13/04/2021,Chiefton,Drilled,Conventional,Barley,239861,22,55,23,26.7,01/12/2021
+Soles 19,1,14/04/2021,Chiefton,Drilled,Conventional,Barley,233417,9,58,33,62.7,01/12/2021
+Soles 19,2,14/04/2021,Chiefton,Drilled,Conventional,Barley,233417,9,58,33,62.7,01/12/2021
+Soles 19,3,14/04/2021,Chiefton,Drilled,Conventional,Barley,233417,9,58,33,62.7,01/12/2021
+Soles 19,4,14/04/2021,Chiefton,Drilled,Conventional,Barley,233417,9,58,33,62.7,01/12/2021
+Markillies Shipey,1,13/05/2021,Krypton,Drilled,Conventional,Barley,247000,48,38,14,2.7,01/03/2022
+Markillies 4,1,14/05/2021,Chiefton,Drilled,Conventional,Barley,247000,41,46,13,2.9,01/03/2022
+Symmingtons Long Road B,1,11/05/2021,Chiefton,Plant Tape,Conventional,None,210000,57,28,15,2.6,01/02/2022
+Symmingtons Boundary A,1,11/05/2021,Chiefton,Plant Tape,Conventional,None,210000,57,28,15,2.6,01/02/2022
+Symmingtons Boundary C,1,12/05/2021,Chiefton,Drilled,Conventional,Barley,247000,61,28,11,2.2,01/02/2022
+RH33,1,15/05/2021,Harston,Bare Roots,Conventional,None,200000,32,49,19,3,01/04/2022
+RH33,2,16/05/2021,Laston,Bare Roots,Conventional,None,200000,32,49,19,3,01/04/2022
+RH33,3,17/05/2021,Oslo,Bare Roots,Conventional,None,200000,32,49,19,3,01/04/2022
+Chatteris Farms 39,1,18/05/2021,Pluston,Plant Tape,Conventional,None,210000,39,41,20,11.8,01/04/2022
+Chatteris Farms 39,4,19/05/2021,Laston,Plant Tape,Conventional,None,210000,39,41,20,11.8,01/04/2022
+Spencers Church Pit,1,05/06/2021,Chiefton,Modules,Organic,None,200000,33,55,12,2.4,01/12/2021
+Spencers Allotments,1,08/06/2021,Defender,Bare Roots,Organic,None,200000,40,53,7,1.7,31/01/2022
+Spencers Heath,1,12/06/2021,Triton,Bare Roots,Organic,None,200000,73,23,4,3,01/04/2022
