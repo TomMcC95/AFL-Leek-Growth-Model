@@ -475,9 +475,9 @@ Lords Ground PW4,6,02/05/2021,Shafton,Blocks,Conventional,None,197680,11,66,23,3
 Lords Ground PW5,1,12/05/2021,Shafton,Blocks,Conventional,None,197680,14,65,21,31.9,06/09/2021
 Lords Ground PW5,2,12/05/2021,Shafton,Blocks,Conventional,None,197680,14,65,21,31.9,06/09/2021
 Lords Ground PW5,3,12/05/2021,Shafton,Blocks,Conventional,None,197680,14,65,21,31.9,06/09/2021
-Lords Ground PW5,4,16/05/2021,Linkton,Blocks,Conventional,None,197680,14,65,21,31.9,
-Lords Ground PW5,5,16/05/2021,Linkton,Blocks,Conventional,None,197680,14,65,21,31.9,
-Lords Ground PW5,6,16/05/2021,Linkton,Blocks,Conventional,None,197680,14,65,21,31.9,
+Lords Ground PW5,4,16/05/2021,Linkton,Blocks,Conventional,None,197680,14,65,21,31.9,12/09/2021
+Lords Ground PW5,5,16/05/2021,Linkton,Blocks,Conventional,None,197680,14,65,21,31.9,12/09/2021
+Lords Ground PW5,6,16/05/2021,Linkton,Blocks,Conventional,None,197680,14,65,21,31.9,12/09/2021
 HH47,1,28/05/2021,Triton,Drilled,Conventional,Barley,271760,8,57,35,29.7,
 HH47,2,28/05/2021,Triton,Drilled,Conventional,Barley,271760,8,57,35,29.7,
 HH47,3,28/05/2021,Triton,Drilled,Conventional,Barley,271760,8,57,35,29.7,
@@ -520,12 +520,12 @@ HH43C,1,01/04/2021,Linkton,Drilled,Baby,Poly,459985,38,41,21,18.5,22/08/2021
 HH43C,2,01/04/2021,Linkton,Drilled,Baby,Poly,459985,38,41,21,18.5,22/08/2021
 HH43C,3,01/04/2021,Runner,Drilled,Baby,Poly,484160,38,41,21,18.5,
 HH43C,4,01/04/2021,Runner,Drilled,Baby,Poly,484160,38,41,21,18.5,
-HH43D,1,09/04/2021,Runner,Drilled,Baby,None,442690,38,41,21,18.5,
-HH43D,2,09/04/2021,Runner,Drilled,Baby,None,442690,38,41,21,18.5,
-HH43D,3,09/04/2021,Runner,Drilled,Baby,None,442690,38,41,21,18.5,
-HH43E,1,18/04/2021,Runner,Drilled,Baby,None,462308,38,41,21,18.5,
-HH43E,2,18/04/2021,Runner,Drilled,Baby,None,462308,38,41,21,18.5,
-HH43E,3,18/04/2021,Runner,Drilled,Baby,None,462308,38,41,21,18.5,
+HH43D,1,09/04/2021,Runner,Drilled,Baby,None,442690,38,41,21,18.5,01/09/2021
+HH43D,2,09/04/2021,Runner,Drilled,Baby,None,442690,38,41,21,18.5,01/09/2021
+HH43D,3,09/04/2021,Runner,Drilled,Baby,None,442690,38,41,21,18.5,01/09/2021
+HH43E,1,18/04/2021,Runner,Drilled,Baby,None,462308,38,41,21,18.5,14/09/2021
+HH43E,2,18/04/2021,Runner,Drilled,Baby,None,462308,38,41,21,18.5,14/09/2021
+HH43E,3,18/04/2021,Runner,Drilled,Baby,None,462308,38,41,21,18.5,14/09/2021
 HH43F,1,28/04/2021,Runner,Drilled,Baby,None,465358,38,41,21,18.5,
 HH43F,2,28/04/2021,Runner,Drilled,Baby,None,465358,38,41,21,18.5,
 HH43F,3,28/04/2021,Runner,Drilled,Baby,None,465358,38,41,21,18.5,
@@ -542,21 +542,21 @@ HB73A,1,17/05/2021,Chiefton,Drilled,Conventional,Barley,255424,8,45,47,21.6,
 HB73A,2,17/05/2021,Chiefton,Drilled,Conventional,Barley,255424,8,45,47,21.6,
 HB73A,3,17/05/2021,Chiefton,Drilled,Conventional,Barley,255424,8,45,47,21.6,
 HB73A,4,17/05/2021,Chiefton,Drilled,Conventional,Barley,255424,8,45,47,21.6,
-Garretts Listers 11,1,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,9,66,25,41.7,
-Garretts Listers 11,2,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,9,66,25,41.7,
-Garretts Listers 11,3,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,9,66,25,41.7,
+Garretts Listers 11,1,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,9,66,25,41.7,24/09/2021
+Garretts Listers 11,2,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,9,66,25,41.7,24/09/2021
+Garretts Listers 11,3,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,9,66,25,41.7,24/09/2021
 Garretts Listers 12,1,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,18,59,23,70.3,
 Garretts Listers 12,2,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,18,59,23,70.3,
 Garretts Listers 12,3,12/03/2021,Comanche,Drilled,Conventional,Barley,243039,18,59,23,70.3,
-Garretts Listers 13,1,13/03/2021,Comanche,Drilled,Conventional,Barley,243039,37,48,15,78,
-Garretts Listers 13,2,13/03/2021,Comanche,Drilled,Conventional,Barley,243039,37,48,15,78,
+Garretts Listers 13,1,13/03/2021,Comanche,Drilled,Conventional,Barley,243039,37,48,15,78,14/09/2021
+Garretts Listers 13,2,13/03/2021,Comanche,Drilled,Conventional,Barley,243039,37,48,15,78,14/09/2021
 Garretts Listers 13,3,13/03/2021,Krypton,Drilled,Conventional,Barley,241653,37,48,15,78,07/09/2021
 Garretts Listers 13,4,13/03/2021,Krypton,Drilled,Conventional,Barley,241653,37,48,15,78,07/09/2021
-Rosedene 10,1,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3,
-Rosedene 10,2,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3,
-Rosedene 10,3,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3,
-Rosedene 10,4,01/04/2021,Krypton,Drilled,Conventional,Barley,235093,3,76,21,77.3,
-Rosedene 10,5,01/04/2021,Krypton,Drilled,Conventional,Barley,235093,3,76,21,77.3,
+Rosedene 10,1,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3,26/09/2021
+Rosedene 10,2,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3,26/09/2021
+Rosedene 10,3,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3,26/09/2021
+Rosedene 10,4,01/04/2021,Krypton,Drilled,Conventional,Barley,235093,3,76,21,77.3,16/09/2021
+Rosedene 10,5,01/04/2021,Krypton,Drilled,Conventional,Barley,235093,3,76,21,77.3,16/09/2021
 Rosedene 49,1,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,
 Rosedene 49,2,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,
 Rosedene 49,3,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,
@@ -586,12 +586,12 @@ Martin F10A,1,22/03/2021,Krypton,Superseedlings,Organic,Fleece,197680,39,36,25,8
 Martin F10A,2,22/03/2021,Krypton,Superseedlings,Organic,Fleece,197680,39,36,25,8.2,21/07/2021
 Martin F10A,3,02/04/2021,Shafton,Superseedlings,Organic,Fleece,197680,39,36,25,8.2,25/07/2021
 Martin F10A,4,02/04/2021,Shafton,Superseedlings,Organic,Fleece,197680,39,36,25,8.2,25/07/2021
-Martin F10B,1,03/05/2021,Krypton,Modules,Organic,None,197680,39,36,25,8.2,
-Martin F10B,2,03/05/2021,Krypton,Modules,Organic,None,197680,39,36,25,8.2,
-Martin F10B,3,03/05/2021,Krypton,Modules,Organic,None,197680,39,36,25,8.2,
-Martin F10B,4,06/05/2021,Chiefton,Modules,Organic,None,197680,39,36,25,8.2,
-Martin F10B,5,06/05/2021,Chiefton,Modules,Organic,None,197680,39,36,25,8.2,
-Martin F10B,6,06/05/2021,Chiefton,Modules,Organic,None,197680,39,36,25,8.2,
+Martin F10B,1,03/05/2021,Krypton,Modules,Organic,None,197680,39,36,25,8.2,29/08/2021
+Martin F10B,2,03/05/2021,Krypton,Modules,Organic,None,197680,39,36,25,8.2,29/08/2021
+Martin F10B,3,03/05/2021,Krypton,Modules,Organic,None,197680,39,36,25,8.2,29/08/2021
+Martin F10B,4,06/05/2021,Chiefton,Modules,Organic,None,197680,39,36,25,8.2,16/09/2021
+Martin F10B,5,06/05/2021,Chiefton,Modules,Organic,None,197680,39,36,25,8.2,16/09/2021
+Martin F10B,6,06/05/2021,Chiefton,Modules,Organic,None,197680,39,36,25,8.2,16/09/2021
 Lime Kiln Breck,1,14/05/2021,Chiefton,Modules,Organic,None,197680,35,50,15,2.5,
 Lime Kiln Breck,2,14/05/2021,Chiefton,Modules,Organic,None,197680,35,50,15,2.5,
 Lime Kiln Breck,3,18/05/2021,Chiefton,Modules,Organic,None,197680,35,50,15,2.5,
