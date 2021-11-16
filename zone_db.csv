@@ -496,16 +496,16 @@ HH33B,3,03/07/2021,Laston,Blocks,Conventional,None,200000,44,32,24,16.7,
 HH33B,4,10/07/2021,Batter,Blocks,Conventional,None,200000,44,32,24,16.7,
 HH33B,5,10/07/2021,Batter,Blocks,Conventional,None,200000,44,32,24,16.7,
 HH33B,6,10/07/2021,Batter,Blocks,Conventional,None,200000,44,32,24,16.7,
-HH54A,1,14/05/2021,Runner,Drilled,Baby,Barley,463663,8,57,35,29.7,
-HH54A,2,14/05/2021,Runner,Drilled,Baby,Barley,463663,8,57,35,29.7,
-HH54A,3,14/05/2021,Runner,Drilled,Baby,Barley,463663,8,57,35,29.7,
-HH54B,1,27/05/2021,Runner,Drilled,Baby,Barley,465858,8,57,35,29.7,
-HH54B,2,27/05/2021,Runner,Drilled,Baby,Barley,465858,8,57,35,29.7,
-HH54B,3,27/05/2021,Runner,Drilled,Baby,Barley,465858,8,57,35,29.7,
-HH54C,1,03/06/2021,Batter,Drilled,Baby,Barley,502258,8,57,35,29.7,
-HH54C,2,03/06/2021,Batter,Drilled,Baby,Barley,502258,8,57,35,29.7,
-HH54C,3,03/06/2021,Runner,Drilled,Baby,Barley,495733,8,57,35,29.7,
-HH54C,4,03/06/2021,Runner,Drilled,Baby,Barley,495733,8,57,35,29.7,
+HH54A,1,14/05/2021,Runner,Drilled,Baby,Barley,463663,8,57,35,29.7,18/10/2021
+HH54A,2,14/05/2021,Runner,Drilled,Baby,Barley,463663,8,57,35,29.7,18/10/2021
+HH54A,3,14/05/2021,Runner,Drilled,Baby,Barley,463663,8,57,35,29.7,18/10/2021
+HH54B,1,27/05/2021,Runner,Drilled,Baby,Barley,465858,8,57,35,29.7,25/10/2021
+HH54B,2,27/05/2021,Runner,Drilled,Baby,Barley,465858,8,57,35,29.7,25/10/2021
+HH54B,3,27/05/2021,Runner,Drilled,Baby,Barley,465858,8,57,35,29.7,25/10/2021
+HH54C,1,03/06/2021,Batter,Drilled,Baby,Barley,502258,8,57,35,29.7,24/10/2021
+HH54C,2,03/06/2021,Batter,Drilled,Baby,Barley,502258,8,57,35,29.7,24/10/2021
+HH54C,3,03/06/2021,Runner,Drilled,Baby,Barley,495733,8,57,35,29.7,05/11/2021
+HH54C,4,03/06/2021,Runner,Drilled,Baby,Barley,495733,8,57,35,29.7,05/11/2021
 HH54D,1,11/06/2021,Runner,Drilled,Baby,Barley,438305,8,57,35,29.7,
 HH54D,2,11/06/2021,Runner,Drilled,Baby,Barley,438305,8,57,35,29.7,
 HH54D,3,11/06/2021,Batter,Drilled,Baby,Barley,517451,8,57,35,29.7,
@@ -532,8 +532,8 @@ HH43F,3,28/04/2021,Runner,Drilled,Baby,None,465358,38,41,21,18.5,28/09/2021
 HH43G,1,07/05/2021,Runner,Drilled,Baby,None,460122,38,41,21,18.5,
 HH43G,2,07/05/2021,Runner,Drilled,Baby,None,460122,38,41,21,18.5,
 HH43G,3,07/05/2021,Runner,Drilled,Baby,None,460122,38,41,21,18.5,
-HB79A,1,19/05/2021,Linkton,Blocks,Conventional,Barley,197680,11,67,22,36.2,
-HB79A,2,19/05/2021,Linkton,Blocks,Conventional,Barley,197680,11,67,22,36.2,
+HB79A,1,19/05/2021,Linkton,Blocks,Conventional,Barley,197680,11,67,22,36.2,09/11/2021
+HB79A,2,19/05/2021,Linkton,Blocks,Conventional,Barley,197680,11,67,22,36.2,09/11/2021
 HB79B,1,24/05/2021,Chiefton,Drilled,Conventional,Barley,266268,11,67,22,36.2,
 HB79B,2,24/05/2021,Chiefton,Drilled,Conventional,Barley,266268,11,67,22,36.2,
 HB79B,3,24/05/2021,Chiefton,Drilled,Conventional,Barley,266268,11,67,22,36.2,
@@ -557,20 +557,20 @@ Rosedene 10,2,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3
 Rosedene 10,3,31/03/2021,Shafton,Drilled,Conventional,Barley,227146,3,76,21,77.3,26/09/2021
 Rosedene 10,4,01/04/2021,Krypton,Drilled,Conventional,Barley,235093,3,76,21,77.3,16/09/2021
 Rosedene 10,5,01/04/2021,Krypton,Drilled,Conventional,Barley,235093,3,76,21,77.3,16/09/2021
-Rosedene 49,1,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,
-Rosedene 49,2,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,
-Rosedene 49,3,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,
-Rosedene 49,4,17/04/2021,Chiefton,Drilled,Conventional,Barley,239195,7,76,17,77.6,
-Rosedene 49,5,17/04/2021,Chiefton,Drilled,Conventional,Barley,239195,7,76,17,77.6,
-Wissey Gills 1,1,18/03/2021,Krypton,Drilled,Conventional,Barley,254177,9,74,17,64.5,
-Wissey Gills 1,2,18/03/2021,Krypton,Drilled,Conventional,Barley,254177,9,74,17,64.5,
-Wissey Gills 1,3,18/03/2021,Krypton,Drilled,Conventional,Barley,254177,9,74,17,64.5,
-Wissey Gills 1,4,19/03/2021,Shafton,Drilled,Conventional,Barley,248078,9,74,17,64.5,
-Wissey Gills 1,5,19/03/2021,Shafton,Drilled,Conventional,Barley,248078,9,74,17,64.5,
-Wissey Gills 1,6,19/03/2021,Shafton,Drilled,Conventional,Barley,248078,9,74,17,64.5,
-Guyers 17,1,19/04/2021,Chiefton,Drilled,Conventional,Barley,261324,3,82,15,66.2,
-Guyers 17,2,19/04/2021,Shafton,Drilled,Conventional,Barley,244019,3,82,15,66.2,
-Guyers 17,3,19/04/2021,Shafton,Drilled,Conventional,Barley,244019,3,82,15,66.2,
+Rosedene 49,1,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,16/10/2021
+Rosedene 49,2,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,16/10/2021
+Rosedene 49,3,16/04/2021,Linkton,Drilled,Conventional,Barley,222222,7,76,17,77.6,16/10/2021
+Rosedene 49,4,17/04/2021,Chiefton,Drilled,Conventional,Barley,239195,7,76,17,77.6,18/10/2021
+Rosedene 49,5,17/04/2021,Chiefton,Drilled,Conventional,Barley,239195,7,76,17,77.6,18/10/2021
+Wissey Gills 1,1,18/03/2021,Krypton,Drilled,Conventional,Barley,254177,9,74,17,64.5,08/10/2021
+Wissey Gills 1,2,18/03/2021,Krypton,Drilled,Conventional,Barley,254177,9,74,17,64.5,08/10/2021
+Wissey Gills 1,3,18/03/2021,Krypton,Drilled,Conventional,Barley,254177,9,74,17,64.5,08/10/2021
+Wissey Gills 1,4,19/03/2021,Shafton,Drilled,Conventional,Barley,248078,9,74,17,64.5,04/11/2021
+Wissey Gills 1,5,19/03/2021,Shafton,Drilled,Conventional,Barley,248078,9,74,17,64.5,04/11/2021
+Wissey Gills 1,6,19/03/2021,Shafton,Drilled,Conventional,Barley,248078,9,74,17,64.5,04/11/2021
+Guyers 17,1,19/04/2021,Chiefton,Drilled,Conventional,Barley,261324,3,82,15,66.2,09/11/2021
+Guyers 17,2,19/04/2021,Shafton,Drilled,Conventional,Barley,244019,3,82,15,66.2,10/11/2021
+Guyers 17,3,19/04/2021,Shafton,Drilled,Conventional,Barley,244019,3,82,15,66.2,10/11/2021
 Guyers 17,4,17/04/2021,Krypton,Drilled,Conventional,Barley,232499,3,82,15,66.2,
 Guyers 17,5,17/04/2021,Krypton,Drilled,Conventional,Barley,232499,3,82,15,66.2,
 Guyers 17,6,17/04/2021,Krypton,Drilled,Conventional,Barley,232499,3,82,15,66.2,
@@ -578,10 +578,10 @@ Guyers 30,1,01/04/2021,Krypton,Drilled,Conventional,Barley,259904,8,72,20,53.9,
 Guyers 30,2,01/04/2021,Krypton,Drilled,Conventional,Barley,259904,8,72,20,53.9,
 Guyers 30,3,01/04/2021,Krypton,Drilled,Conventional,Barley,259904,8,72,20,53.9,
 Guyers 30,4,01/04/2021,Krypton,Drilled,Conventional,Barley,259904,8,72,20,53.9,
-John Allan 1,1,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,
-John Allan 1,2,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,
-John Allan 1,3,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,
-John Allan 1,4,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,
+John Allan 1,1,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,31/10/2021
+John Allan 1,2,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,31/10/2021
+John Allan 1,3,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,31/10/2021
+John Allan 1,4,16/04/2021,Chiefton,Drilled,Conventional,Barley,232025,6,76,18,63.9,31/10/2021
 Martin F10A,1,22/03/2021,Krypton,Superseedlings,Organic,Fleece,197680,39,36,25,8.2,21/07/2021
 Martin F10A,2,22/03/2021,Krypton,Superseedlings,Organic,Fleece,197680,39,36,25,8.2,21/07/2021
 Martin F10A,3,02/04/2021,Shafton,Superseedlings,Organic,Fleece,197680,39,36,25,8.2,25/07/2021
@@ -608,20 +608,20 @@ Buckenham Heap,1,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,
 Buckenham Heap,2,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,10.2,
 Buckenham Heap,3,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,10.2,
 Buckenham Heap,4,29/04/2021,Chiefton,Drilled,Conventional,Barley,253429,76,8,16,10.2,
-Park Farm 45,1,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,
-Park Farm 45,2,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,
-Park Farm 45,3,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,
-Park Farm 45,4,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,
+Park Farm 45,1,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,22/10/2021
+Park Farm 45,2,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,22/10/2021
+Park Farm 45,3,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,22/10/2021
+Park Farm 45,4,02/04/2021,Krypton,Drilled,Conventional,Barley,261860,77,18,5,37,22/10/2021
 Park Farm 52,1,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,
 Park Farm 52,2,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,
 Park Farm 52,3,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,
 Park Farm 52,4,01/04/2021,Krypton,Drilled,Conventional,Barley,260538,28,58,14,35,
-Park Farm 31,1,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,
-Park Farm 31,2,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,
-Park Farm 31,3,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,
-Park Farm 31,4,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,
-Park Farm 31,5,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,
-Park Farm 31,6,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,
+Park Farm 31,1,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,19/10/2021
+Park Farm 31,2,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,19/10/2021
+Park Farm 31,3,25/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,19/10/2021
+Park Farm 31,4,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,19/10/2021
+Park Farm 31,5,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,19/10/2021
+Park Farm 31,6,27/05/2021,Krypton,Plant Tape,Conventional,None,206060,57,35,8,3.5,19/10/2021
 Park Farm 27,1,23/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,
 Park Farm 27,2,23/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,
 Park Farm 27,3,23/03/2021,Krypton,Drilled,Conventional,Barley,256038,60,32,8,2,
@@ -647,10 +647,10 @@ Grotec Reeves,5,30/06/2021,Krypton,Bare Roots,Conventional,None,200000,44,46,10,
 Grotec Reeves,6,04/07/2021,Krypton,Bare Roots,Conventional,None,200000,44,46,10,1.4,
 Grotec Reeves,7,05/07/2021,Chiefton,Bare Roots,Conventional,None,200000,44,46,10,1.4,
 Grotec Reeves,8,05/07/2021,Chiefton,Bare Roots,Conventional,None,200000,44,46,10,1.4,
-Grotec School Road,1,24/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,
-Grotec School Road,2,24/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,
-Grotec School Road,3,25/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,
-Grotec School Road,4,25/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,
+Grotec School Road,1,24/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,05/11/2021
+Grotec School Road,2,24/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,05/11/2021
+Grotec School Road,3,25/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,05/11/2021
+Grotec School Road,4,25/06/2021,Krypton,Bare Roots,Conventional,None,200000,40,50,10,2,05/11/2021
 Grotec Far Black,1,08/04/2021,Krypton,Drilled,Conventional,Barley,254399,32,57,11,50,
 Grotec Far Black,2,08/04/2021,Krypton,Drilled,Conventional,Barley,254399,32,57,11,50,
 Grotec Far Black,3,08/04/2021,Krypton,Drilled,Conventional,Barley,254399,32,57,11,50,
