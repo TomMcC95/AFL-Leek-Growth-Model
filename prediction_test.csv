@@ -1,7 +1,0 @@
-﻿pp2m2,heat_units,solar_radiation,organic_matter,sand,silt,clay,method,variety,inputs,protection
-40,1000,100000,5,30,50,20,Drilled,Krypton,Conventional,Barley
-35,1500,150000,10,30,50,20,Blocks,Chiefton,Conventional,None
-37,2000,200000,20,30,50,20,Bare Roots,Krypton,Conventional,None
-45,2500,250000,40,30,50,20,Modules,Chiefton,Organic,None
-29,3000,300000,75,30,50,20,Drilled,Chiefton,Conventional,None
-70,1000,100000,20,30,50,20,Drilled,Linkton,Baby,Poly
