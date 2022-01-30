@@ -1,5 +1,8 @@
 # Import required libraries
 
+### MAKE THIS A CALCULATER TYPE PIECE OF SOFTWARE
+### CAN BE QUICKLY MODIFIED TO GIVE A QUICK DISTRIBUTION OUTPUT.
+
 import pandas as pd
 import numpy as np
 import math as mt
