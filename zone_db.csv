@@ -700,14 +700,14 @@ Symmingtons Long Road B,1,23/06/2021,Chiefton,Plant Tape,Conventional,None,20258
 Symmingtons Long Road B,2,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,57,28,15,2.6,01/04/2022
 Symmingtons Long Road B,3,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,57,28,15,2.6,01/04/2022
 Symmingtons Long Road B,4,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,57,28,15,2.6,01/04/2022
-Symmingtons Boundary A,1,17/06/2021,Chiefton,Plant Tape,Conventional,None,196000,57,28,15,2.6,01/02/2022
-Symmingtons Boundary A,2,17/06/2021,Chiefton,Plant Tape,Conventional,None,196000,57,28,15,2.6,01/02/2022
-Symmingtons Boundary A,3,22/06/2021,Chiefton,Plant Tape,Conventional,None,200000,57,28,15,2.6,01/02/2022
-Symmingtons Boundary A,4,22/06/2021,Chiefton,Plant Tape,Conventional,None,200000,57,28,15,2.6,01/02/2022
-Symmingtons Boundary C,1,26/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,01/03/2022
-Symmingtons Boundary C,2,26/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,01/03/2022
-Symmingtons Boundary C,3,27/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,01/03/2022
-Symmingtons Boundary C,4,27/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,01/03/2022
+Symmingtons Boundary A,1,17/06/2021,Chiefton,Plant Tape,Conventional,None,196000,57,28,15,2.6,01/03/2022
+Symmingtons Boundary A,2,17/06/2021,Chiefton,Plant Tape,Conventional,None,196000,57,28,15,2.6,01/03/2022
+Symmingtons Boundary A,3,22/06/2021,Chiefton,Plant Tape,Conventional,None,200000,57,28,15,2.6,01/03/2022
+Symmingtons Boundary A,4,22/06/2021,Chiefton,Plant Tape,Conventional,None,200000,57,28,15,2.6,01/03/2022
+Symmingtons Boundary C,1,26/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,15/03/2022
+Symmingtons Boundary C,2,26/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,15/03/2022
+Symmingtons Boundary C,3,27/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,15/06/2022
+Symmingtons Boundary C,4,27/04/2021,Chiefton,Drilled,Conventional,Barley,267528,61,28,11,2.2,15/03/2022
 Chatteris Farms 39,1,27/06/2021,Pluston,Plant Tape,Conventional,None,210000,39,41,20,11.8,15/03/2022
 Chatteris Farms 39,2,27/06/2021,Pluston,Plant Tape,Conventional,None,210000,39,41,20,11.8,15/03/2022
 Chatteris Farms 39,3,27/06/2021,Pluston,Plant Tape,Conventional,None,210000,39,41,20,11.8,15/03/2022
@@ -754,3 +754,85 @@ RH33,9,23/07/2021,Laston,Bare Roots,Conventional,None,200000,31,48,21,2.6,01/04/
 RH33,10,01/08/2021,Harston,Bare Roots,Conventional,None,200000,31,48,21,2.6,01/04/2022
 RH33,11,01/08/2021,Harston,Bare Roots,Conventional,None,200000,33,50,17,2.5,01/04/2022
 RH33,12,01/08/2021,Harston,Bare Roots,Conventional,None,200000,33,50,17,2.5,01/04/2022
+Allans 15,1,09/04/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+Allans 23,1,09/04/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+Allans Long Drove,1,21/05/2022,Krypton,Plant Tape,Conventional,None,230000,,,,,
+Bridge Field,1,07/05/2022,Chiefton,Modules,Organic,None,170000,,,,,
+Buckenham Eelsfoot,1,16/04/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+Butcher 16,1,16/04/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+Butcher 39,1,16/04/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+Chatteris Farms 40,1,18/06/2022,Laston,Plant Tape,Conventional,None,210000,,,,,
+Garretts Decoy 1,1,05/03/2022,Comanche,Drilled,Conventional,Barley,210000,,,,,
+Garretts Decoy 2,1,05/03/2022,Comanche,Drilled,Conventional,Barley,230000,,,,,
+Garretts Listers 14,1,05/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Garretts Listers 15,1,05/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Grotec Auction,1,11/06/2022,Krypton,Bare Roots,Conventional,None,200000,,,,,
+Grotec Near Black,1,28/05/2022,Krypton,Plant Tape,Conventional,None,200000,,,,,
+Grotec Sewage,1,11/06/2022,Krypton,Bare Roots,Conventional,None,200000,,,,,
+Guyers 15,1,26/03/2022,Linkton,Drilled,Conventional,Barley,230000,,,,,
+Guyers 16,1,26/03/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+HB74,4,16/04/2022,Linkton,Blocks,Conventional,None,200000,,,,,
+HB75,1,23/04/2022,Shafton,Blocks,Conventional,None,200000,,,,,
+HH28,1,23/04/2022,Lexton,Drilled,Conventional,Barley,230000,,,,,
+HH36A,1,05/03/2022,Linkton,Drilled,Baby,Poly,420000,,,,,
+HH36B,1,12/03/2022,Linkton,Drilled,Baby,Poly,420000,,,,,
+HH36C,1,19/03/2022,Runner,Drilled,Baby,Poly,420000,,,,,
+HH36D,1,26/03/2022,Linkton,Drilled,Baby,Poly,420000,,,,,
+HH36D,2,26/03/2022,Runner,Drilled,Baby,Poly,420000,,,,,
+HH36E,1,02/04/2022,Linkton,Drilled,Baby,Barley,420000,,,,,
+HH36E,2,02/04/2022,Runner,Drilled,Baby,Barley,420000,,,,,
+HH36F,1,09/04/2022,Runner,Drilled,Baby,Barley,440000,,,,,
+HH36G,1,16/04/2022,Linkton,Drilled,Baby,Barley,440000,,,,,
+HH36G,2,16/04/2022,Runner,Drilled,Baby,Barley,440000,,,,,
+HH42,1,23/04/2022,Laston,Drilled,Conventional,Barley,230000,,,,,
+HH45A,1,23/04/2022,Runner,Drilled,Baby,Barley,440000,,,,,
+HH45B,1,30/04/2022,Linkton,Drilled,Baby,Barley,440000,,,,,
+HH45B,2,30/04/2022,Runner,Drilled,Baby,Barley,470000,,,,,
+HH45C,1,07/05/2022,Linkton,Drilled,Baby,Barley,490000,,,,,
+HH45C,2,07/05/2022,Runner,Drilled,Baby,Barley,490000,,,,,
+HH45D,1,14/05/2022,Lexton,Drilled,Baby,Barley,490000,,,,,
+HH45D,2,14/05/2022,Runner,Drilled,Baby,Barley,490000,,,,,
+HH45E,1,21/05/2022,Lexton,Drilled,Baby,Barley,490000,,,,,
+John Allan 2,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+John Allan 3,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+John Allan 4,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+John Allan 5,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Lords Ground 24,1,12/03/2022,Linkton,Blocks,Conventional,Fleece,170000,,,,,
+Lords Ground 36,1,09/04/2022,Krypton,Blocks,Conventional,None,200000,,,,,
+Lords Ground 51,1,02/04/2022,Shafton,Blocks,Conventional,None,200000,,,,,
+Lords Ground 54,1,26/03/2022,Shafton,Blocks,Conventional,Fleece,170000,,,,,
+Lords Ground 58,1,19/03/2022,Linkton,Blocks,Conventional,Fleece,170000,,,,,
+Lords Ground White Post,1,16/04/2022,Linkton,Blocks,Conventional,None,200000,,,,,
+Martin F12,1,23/04/2022,Krypton,Modules,Organic,None,170000,,,,,
+Martin F12,2,30/04/2022,Chiefton,Modules,Organic,None,170000,,,,,
+Martin P6,1,19/03/2022,Shafton,Superseedlings,Organic,Fleece,170000,,,,,
+Martin P6,2,03/04/2022,Krypton,Superseedlings,Organic,Fleece,170000,,,,,
+Park Farm 02,1,18/06/2022,Krypton,Bare Roots,Conventional,None,210000,,,,,
+Park Farm 03,1,02/07/2022,Oslo,Bare Roots,Conventional,None,210000,,,,,
+Park Farm 04,1,28/05/2022,Krypton,Plant Tape,Conventional,None,210000,,,,,
+Park Farm 16,1,04/06/2022,Krypton,Plant Tape,Conventional,None,210000,,,,,
+Park Farm 25,1,04/06/2022,Chiefton,Plant Tape,Conventional,None,210000,,,,,
+Park Farm 43,1,26/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Park Farm 47,5,26/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Park Farm 48,4,26/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Park Farm 54,1,26/03/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+RH38,1,11/06/2022,Defender,Bare Roots,Organic,None,190000,,,,,
+RH38,2,18/06/2022,Laston,Bare Roots,Organic,None,190000,,,,,
+RH41,1,16/07/2022,Laston,Bare Roots,Conventional,None,200000,,,,,
+RH41,2,23/07/2022,Harston,Bare Roots,Conventional,None,200000,,,,,
+Rosedene 50,1,26/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Rosedene 53,1,26/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Smith 1,1,05/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Smith 2,1,05/03/2022,Linkton,Drilled,Conventional,Barley,230000,,,,,
+Soles 06,1,09/04/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+Soles 27,1,09/04/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
+Spencers Church Pit C,1,14/05/2022,Oslo,Modules,Organic,None,170000,,,,,
+Spencers Church Pit C,2,21/05/2022,Defender,Modules,Organic,None,190000,,,,,
+Spencers Church Pit C,3,28/05/2022,Belton,Modules,Organic,None,190000,,,,,
+Spencers Church Pit D,1,04/06/2022,Defender,Bare Roots,Organic,None,190000,,,,,
+Symmingtons HF3,1,25/06/2022,Chiefton,Plant Tape,Conventional,None,210000,,,,,
+Symmingtons HF3,2,25/06/2022,Pluston,Plant Tape,Conventional,None,210000,,,,,
+Wissey 22,1,05/03/2022,Shafton,Drilled,Conventional,Barley,230000,,,,,
+Wissey 32,1,05/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
+Wissey C (N),1,05/03/2022,Shafton,Drilled,Conventional,Barley,230000,,,,,
+Wissey C (S),1,05/03/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
