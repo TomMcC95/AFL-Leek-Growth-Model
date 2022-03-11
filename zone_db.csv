@@ -696,10 +696,10 @@ Markillies 4,7,23/04/2021,Chiefton,Drilled,Conventional,Barley,253950,41,46,13,2
 Markillies 4,8,23/04/2021,Chiefton,Drilled,Conventional,Barley,253950,41,46,13,2.9,01/01/2022
 Markillies 4,9,23/04/2021,Chiefton,Drilled,Conventional,Barley,253950,41,46,13,2.9,01/01/2022
 Markillies 4,10,23/04/2021,Chiefton,Drilled,Conventional,Barley,253950,41,46,13,2.9,01/01/2022
-Symmingtons Long Road B,1,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,57,28,15,2.6,01/04/2022
-Symmingtons Long Road B,2,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,57,28,15,2.6,01/04/2022
-Symmingtons Long Road B,3,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,57,28,15,2.6,01/04/2022
-Symmingtons Long Road B,4,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,57,28,15,2.6,01/04/2022
+Symmingtons Long Road B,1,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,17,58,25,3.2,01/04/2022
+Symmingtons Long Road B,2,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,17,58,25,3.2,01/04/2022
+Symmingtons Long Road B,3,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,17,58,25,3.2,01/04/2022
+Symmingtons Long Road B,4,23/06/2021,Chiefton,Plant Tape,Conventional,None,202581,17,58,25,3.2,01/04/2022
 Symmingtons Boundary A,1,17/06/2021,Chiefton,Plant Tape,Conventional,None,196000,57,28,15,2.6,01/03/2022
 Symmingtons Boundary A,2,17/06/2021,Chiefton,Plant Tape,Conventional,None,196000,57,28,15,2.6,01/03/2022
 Symmingtons Boundary A,3,22/06/2021,Chiefton,Plant Tape,Conventional,None,200000,57,28,15,2.6,01/03/2022
@@ -771,20 +771,20 @@ Grotec Near Black,1,28/05/2022,Krypton,Plant Tape,Conventional,None,200000,,,,,
 Grotec Sewage,1,11/06/2022,Krypton,Bare Roots,Conventional,None,200000,,,,,
 Guyers 15,1,26/03/2022,Linkton,Drilled,Conventional,Barley,230000,,,,,
 Guyers 16,1,26/03/2022,Chiefton,Drilled,Conventional,Barley,230000,,,,,
-HB74,4,16/04/2022,Linkton,Blocks,Conventional,None,200000,,,,,
-HB75,1,23/04/2022,Shafton,Blocks,Conventional,None,200000,,,,,
+HB74,4,16/04/2022,Linkton,Blocks,Conventional,None,200000,34,37,29,39,
+HB75,1,23/04/2022,Shafton,Blocks,Conventional,None,200000,8,56,36,23.5,
 HH28,1,23/04/2022,Lexton,Drilled,Conventional,Barley,230000,,,,,
-HH36A,1,05/03/2022,Linkton,Drilled,Baby,Poly,420000,,,,,
-HH36B,1,12/03/2022,Linkton,Drilled,Baby,Poly,420000,,,,,
-HH36C,1,19/03/2022,Runner,Drilled,Baby,Poly,420000,,,,,
-HH36D,1,26/03/2022,Linkton,Drilled,Baby,Poly,420000,,,,,
-HH36D,2,26/03/2022,Runner,Drilled,Baby,Poly,420000,,,,,
-HH36E,1,02/04/2022,Linkton,Drilled,Baby,Barley,420000,,,,,
-HH36E,2,02/04/2022,Runner,Drilled,Baby,Barley,420000,,,,,
-HH36F,1,09/04/2022,Runner,Drilled,Baby,Barley,440000,,,,,
-HH36G,1,16/04/2022,Linkton,Drilled,Baby,Barley,440000,,,,,
-HH36G,2,16/04/2022,Runner,Drilled,Baby,Barley,440000,,,,,
-HH42,1,23/04/2022,Laston,Drilled,Conventional,Barley,230000,,,,,
+HH36A,1,05/03/2022,Linkton,Drilled,Baby,Poly,420000,4,47,49,33,
+HH36B,1,12/03/2022,Linkton,Drilled,Baby,Poly,420000,4,47,49,33,
+HH36C,1,19/03/2022,Runner,Drilled,Baby,Poly,420000,4,47,49,33,
+HH36D,1,26/03/2022,Linkton,Drilled,Baby,Poly,420000,4,47,49,33,
+HH36D,2,26/03/2022,Runner,Drilled,Baby,Poly,420000,4,47,49,33,
+HH36E,1,02/04/2022,Linkton,Drilled,Baby,Barley,420000,4,47,49,33,
+HH36E,2,02/04/2022,Runner,Drilled,Baby,Barley,420000,4,47,49,33,
+HH36F,1,09/04/2022,Runner,Drilled,Baby,Barley,440000,4,47,49,33,
+HH36G,1,16/04/2022,Linkton,Drilled,Baby,Barley,440000,4,47,49,33,
+HH36G,2,16/04/2022,Runner,Drilled,Baby,Barley,440000,4,47,49,33,
+HH42,1,23/04/2022,Laston,Drilled,Conventional,Barley,230000,27,44,29,16.1,
 HH45A,1,23/04/2022,Runner,Drilled,Baby,Barley,440000,,,,,
 HH45B,1,30/04/2022,Linkton,Drilled,Baby,Barley,440000,,,,,
 HH45B,2,30/04/2022,Runner,Drilled,Baby,Barley,470000,,,,,
@@ -797,12 +797,12 @@ John Allan 2,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
 John Allan 3,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
 John Allan 4,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
 John Allan 5,1,09/04/2022,Krypton,Drilled,Conventional,Barley,230000,,,,,
-Lords Ground 24,1,12/03/2022,Linkton,Blocks,Conventional,Fleece,170000,,,,,
-Lords Ground 36,1,09/04/2022,Krypton,Blocks,Conventional,None,200000,,,,,
-Lords Ground 51,1,02/04/2022,Shafton,Blocks,Conventional,None,200000,,,,,
-Lords Ground 54,1,26/03/2022,Shafton,Blocks,Conventional,Fleece,170000,,,,,
-Lords Ground 58,1,19/03/2022,Linkton,Blocks,Conventional,Fleece,170000,,,,,
-Lords Ground White Post,1,16/04/2022,Linkton,Blocks,Conventional,None,200000,,,,,
+Lords Ground 24,1,12/03/2022,Linkton,Blocks,Conventional,Fleece,170000,1,52,47,48.9,
+Lords Ground 36,1,09/04/2022,Krypton,Blocks,Conventional,None,200000,4,47,49,33,
+Lords Ground 51,1,02/04/2022,Shafton,Blocks,Conventional,None,200000,7,51,42,21.2,
+Lords Ground 54,1,26/03/2022,Shafton,Blocks,Conventional,Fleece,170000,5,56,39,28.7,
+Lords Ground 58,1,19/03/2022,Linkton,Blocks,Conventional,Fleece,170000,4,48,48,26.2,
+Lords Ground White Post,1,16/04/2022,Linkton,Blocks,Conventional,None,200000,3,62,35,51,
 Martin F12,1,23/04/2022,Krypton,Modules,Organic,None,170000,,,,,
 Martin F12,2,30/04/2022,Chiefton,Modules,Organic,None,170000,,,,,
 Martin P6,1,19/03/2022,Shafton,Superseedlings,Organic,Fleece,170000,,,,,
